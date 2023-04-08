@@ -43,7 +43,7 @@ Before using Iris, you will need to configure your OpenAI API key. To do this, s
 
 You can obtain an OpenAI API key by signing up for an account at <https://beta.openai.com/signup/>.
 
-##Contributions
+## Contributions
 
 We welcome contributions from anyone who is interested in helping to improve Iris. Whether you want to add a new feature, fix a bug, or improve the documentation, we would love to have your help.
 
